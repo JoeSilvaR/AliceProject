@@ -1,1 +1,38 @@
 # Alice Project\nThis is the Alice project.
+
+
+# Alice Project
+
+## Goal
+The goal of the Alice Project is to create a simulated model of human consciousness and cognition. It aims to encapsulate the complexities of human thought processes, emotions, decision-making, and learning within a computer-based model.
+
+## Intent
+The intent is to develop a system that can:
+1. Understand and perform tasks at varying levels of complexity (e.g., reading, data analysis).
+2. Learn from its experiences and improve its performance on tasks.
+3. Generate unique expressions or questions based on its experiences and learning.
+4. Simulate emotional states like pleasure and pain based on the tasks it performs.
+5. Allow for scalability and multimodal inputs in the future.
+
+## Outline
+The project is structured into different versions of Alice, each building upon the previous, adding layers of complexity and capabilities:
+1. `BasicAlice`: A basic implementation focusing on task execution and emotional states.
+2. `AdvancedAlice`: Introduces a machine learning model to predict the effectiveness of questions it might ask.
+3. `UniqueExpressionAlice`: Adds the ability for Alice to express unique thoughts and questions.
+4. `FullyIntegratedAlice`: A fully-integrated version that brings all the above elements together.
+
+## Technologies Used
+- Python
+- Machine Learning (scikit-learn)
+- Natural Language Processing
+
+## Future Directions
+- Integrate deep learning and reinforcement learning algorithms for better learning and decision-making.
+- Add a user-feedback loop for continuous improvement.
+- Allow Alice to interact with the real-world data and environments.
+
+## Contributing
+We welcome contributions to this exciting project. Please feel free to fork the repository and submit pull requests.
+
+## License
+MIT License
